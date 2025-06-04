@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+python-jose
+PyJWT
+requests
+dotenv
+cryptography
+python-multipart
